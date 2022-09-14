@@ -59,19 +59,44 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [Awesome IoT/phodal](https://github.com/phodal/awesome-iot)
     - [Awesome IoT/HQarroum](https://github.com/HQarroum/awesome-iot)
     - [IoT Resources](https://github.com/kevinwlu/iot)
-  * Trade Publications
-    - Coming
+
 ## 2. Week 3-4: Design Document
   * Introduction to Consulting
     - [The Consulting Bible, 2nd Ed](https://learning.oreilly.com/library/view/the-consulting-bible/9781119776871/) by Alan Weiss, Wiley 2021
     - [Advanced Consulting: Earning Trust at the Highest Level](https://learning.oreilly.com/library/view/advanced-consulting/9781523088089/) by Bill Passmore, Berrett-Koehler, 2020
+    - [Writing Great Specifications](https://learning.oreilly.com/library/view/writing-great-specifications/9781617294105/) by Kamil Nicieja, Manning 2017
+- * Architectural Patterns
+    - [The Industrial Internet of Things, Vol G1 Reference Architecture](https://www.iiconsortium.org/pdf/IIRA-v1.9.pdf) by Industrial Internet Consortium, 2019
+    - [Proposal for an IIoT Device Solution According to Industry
+4.0 Concept](https://pubmed.ncbi.nlm.nih.gov/35009868/) by Andrea Vaclavova et al, Jan 2022
+  * Trade Publications
+    - [IoT and Edge Computing for Architects](https://learning.oreilly.com/library/view/iot-and-edge/9781839214806/) by Perry Lea, Packt 2020
+    - [Hands-On Industrial Internet of Things](https://learning.oreilly.com/library/view/hands-on-industrial-internet/9781789537222/) by Giacomo Veneri, Antonio Capasso, Packt 2018
+    - [Auditing IT Infrastructures for Compliance, 3rd ed](https://learning.oreilly.com/library/view/auditing-it-infrastructures/9781284236613/) by Robert Johnson, et al, Jones and Bartlett Learning, 2022
 ## 3. Week 5-6: Theory: Time Series Analysis & ML Predictive Models
-  - Coming...
+  * Trade Publications
+      - Time Series Analysis
+      - ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
+  
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
-  - Coming...
+  * Trade Publications
+    - [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/) by Andy King, O'Reilly 2021
+    - Real-Time Streaming Data Broker
+    - Long-term Storage (SQL DB and/or Time Series DB)
 ## 5. Week 9-10: End-to-End (Phase 2): IoT Sensors and Real-Time Streaming Collection
-  - Coming...
+  * Trade Publications
+    - [Commerical and Industrial IoT Applications with Raspberry Pi: Prototyping IoT Solutions: Chp 1 - Internet of Things Overview](https://learning.oreilly.com/library/view/commercial-and-industrial/9781484252963/html/481978_1_En_1_Chapter.xhtml) by Ioana Culic et al, Apress 2022
+    - [Internet of Things, 2nd ed](https://learning.oreilly.com/videos/internet-of-things/9780137592135/) by Robert Barton and Jerome Henry, LiveLesson 2021
+    - [Practical Python Programming for IoT](https://learning.oreilly.com/library/view/practical-python-programming/9781838982461/) Gary Smart, Packt 2020
+    - [Demystifying IoT Security](https://learning.oreilly.com/library/view/demystifying-internet-of/9781484228968/) by Sunil Cheruvu, Apress 2019
 ## 6. Week 11-12: Cloud Infrastructure: 
-  - Coming...
+  * Cloud Providers
+    - [Industrial IoT Architecture Patterns](https://docs.aws.amazon.com/whitepapers/latest/industrial-iot-architecture-patterns/industrial-iot-architecture-patterns.pdf) AWS Whitepaper 2022
+    - [Designing the IoT Solutions with Azuer: Chp 5 - IoT Applications in Manufacturing](https://learning.oreilly.com/library/view/designing-internet-of/9781484260418/html/491651_1_En_5_Chapter.xhtml) by Nirnay Bansal, Apress 2020
 ## 7. Week 13-14: Reporting/Analytics Dashboard U
-  - Coming...
+  - BI Dashboard
+    - [Building IoT Visualizations with Grafana](https://learning.oreilly.com/library/view/building-iot-visualizations/9781803236124/) by Rodrigo Juan Hernandez, Packt 2022
+    - [Web Application Development with Streamlit: Develop and Deploy Secure and Scalable Web Applications to the Cloud Using a Pure Python Framework](https://learning.oreilly.com/library/view/web-application-development/9781484281116/) by Mohammed Khorasani, et al, Apress 2022
+    - [Learning Tableau 2022](https://learning.oreilly.com/library/view/learning-tableau-2022/9781801072328/) by Joshua N. Milligan et al, Packt 2022
+
+
