@@ -62,7 +62,9 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
   * Trade Publications
     - Coming
 ## 2. Week 3-4: Design Document
-  - Coming...
+  * Introduction to Consulting
+    - [The Consulting Bible, 2nd Ed](https://learning.oreilly.com/library/view/the-consulting-bible/9781119776871/) by Alan Weiss, Wiley 2021
+    - [Advanced Consulting: Earning Trust at the Highest Level](https://learning.oreilly.com/library/view/advanced-consulting/9781523088089/) by Bill Passmore, Berrett-Koehler, 2020
 ## 3. Week 5-6: Theory: Time Series Analysis & ML Predictive Models
   - Coming...
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
