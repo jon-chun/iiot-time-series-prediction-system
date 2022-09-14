@@ -73,11 +73,14 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [IoT and Edge Computing for Architects](https://learning.oreilly.com/library/view/iot-and-edge/9781839214806/) by Perry Lea, Packt 2020
     - [Hands-On Industrial Internet of Things](https://learning.oreilly.com/library/view/hands-on-industrial-internet/9781789537222/) by Giacomo Veneri, Antonio Capasso, Packt 2018
     - [Auditing IT Infrastructures for Compliance, 3rd ed](https://learning.oreilly.com/library/view/auditing-it-infrastructures/9781284236613/) by Robert Johnson, et al, Jones and Bartlett Learning, 2022
+    - 
 ## 3. Week 5-6: Theory: Time Series Analysis & ML Predictive Models
   * Trade Publications
-      - Time Series Analysis
-      - ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
-  
+      - [Time Series Analysis with Python Cookbook](https://learning.oreilly.com/library/view/time-series-analysis/9781801075541/) by Tarek A. Atwan, Packt 2022
+      - [Machine Learning for Time Series Analysis](https://learning.oreilly.com/library/view/machine-learning-for/9781801819626/) by Ben Auffarth, Packt 2021
+      - [Time Series Analysis on AWS](https://learning.oreilly.com/library/view/time-series-analysis/9781801816847/) by Michael Hoarau, Packt 2022
+      -  ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
+- 
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
   * Trade Publications
     - [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/) by Andy King, O'Reilly 2021
