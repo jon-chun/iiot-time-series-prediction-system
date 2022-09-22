@@ -47,6 +47,7 @@ This repo documents a one-semester Independent Study project and community coope
 
 ##  1. **Week 1-2: Research**
   * Business Perspective
+    - [Analytics in Manufacturing](https://www.youtube.com/watch?v=BHP6rpN-2Uc)
     - [Leveraging Industrial IoT and advanced technologies for digital transformation](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/a%20manufacturers%20guide%20to%20generating%20value%20at%20scale%20with%20iiot/leveraging-industrial-iot-and-advanced-technologies-for-digital-transformation.pdf) by Andreas Behrendt (McKinsey & Co) et. al (Oct 2020)
   * Research Papers
     - [Industrial Internet of Things: A Review](https://www.researchgate.net/publication/336439752_Industrial_Internet_of_Things_A_Review) by Avish Karmakar (RCCIIT)
@@ -88,6 +89,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - Long-term Storage (SQL DB and/or Time Series DB)
 ## 5. Week 9-10: End-to-End (Phase 2): IoT Sensors and Real-Time Streaming Collection
   * Trade Publications
+    - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/)
     - [Commerical and Industrial IoT Applications with Raspberry Pi: Prototyping IoT Solutions: Chp 1 - Internet of Things Overview](https://learning.oreilly.com/library/view/commercial-and-industrial/9781484252963/html/481978_1_En_1_Chapter.xhtml) by Ioana Culic et al, Apress 2022
     - [Internet of Things, 2nd ed](https://learning.oreilly.com/videos/internet-of-things/9780137592135/) by Robert Barton and Jerome Henry, LiveLesson 2021
     - [Practical Python Programming for IoT](https://learning.oreilly.com/library/view/practical-python-programming/9781838982461/) Gary Smart, Packt 2020
