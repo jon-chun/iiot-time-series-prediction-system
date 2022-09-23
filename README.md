@@ -84,6 +84,8 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
 - 
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
   * Trade Publications
+    - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/) and [Github Repo](https://github.com/PacktPublishing/Raspberry-Pi-and-MQTT-Essentials)
+    - [Arduino 2.0 IDE](https://www.arduino.cc/en/software)
     - [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/) by Andy King, O'Reilly 2021
     - Real-Time Streaming Data Broker
     - Long-term Storage (SQL DB and/or Time Series DB)
