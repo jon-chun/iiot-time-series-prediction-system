@@ -98,6 +98,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [Demystifying IoT Security](https://learning.oreilly.com/library/view/demystifying-internet-of/9781484228968/) by Sunil Cheruvu, Apress 2019
 ## 6. Week 11-12: Cloud Infrastructure: 
   * Cloud Providers
+    - [Industry 4.0 IIoT Cloud: AWS vs MS Azure](https://www.youtube.com/watch?v=eyDcWPic0Do)
     - [Industrial IoT Architecture Patterns](https://docs.aws.amazon.com/whitepapers/latest/industrial-iot-architecture-patterns/industrial-iot-architecture-patterns.pdf) AWS Whitepaper 2022
     - [Designing the IoT Solutions with Azuer: Chp 5 - IoT Applications in Manufacturing](https://learning.oreilly.com/library/view/designing-internet-of/9781484260418/html/491651_1_En_5_Chapter.xhtml) by Nirnay Bansal, Apress 2020
 ## 7. Week 13-14: Reporting/Analytics Dashboard U
