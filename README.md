@@ -76,6 +76,13 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [Auditing IT Infrastructures for Compliance, 3rd ed](https://learning.oreilly.com/library/view/auditing-it-infrastructures/9781284236613/) by Robert Johnson, et al, Jones and Bartlett Learning, 2022
     - 
 ## 3. Week 5-6: Theory: Time Series Analysis & ML Predictive Models
+  * Video Overviews
+      - [What is predictive maintenance on electric motors - low power motors (4:17)](https://www.youtube.com/watch?v=cFlY6L1igKY)
+      - [Predictive Maintenance with MATLAB and Simulink (35:54)](https://www.youtube.com/watch?v=hEYv3iN70ic)
+      - [Predictive Maintenance, Part 1: Introduction (WATCH ALL 5 PARTS)](https://www.youtube.com/watch?v=RmVWKLbLq2Y)
+      - [AWS vs Azure IoT for Industry (22:59)](https://www.youtube.com/watch?v=eyDcWPic0Do&t=1s) pro-AWS comparison between leading IoT SaaS cloud integrators
+      - [The Key Differences Between OPC UA And MQTT Sparkplug](https://www.hivemq.com/blog/iiot-protocols-opcua-vs-mqtt-sparkplug-digital-transformation/)
+      - [Industry 4.0 Demo Project w/ Ignition MQTT, Raspberry Pi, Arduino, and Kepware IoT Gateway (32:00)](https://www.youtube.com/watch?v=spE6IpOU-2w) - Reference implementation with both FOSS and closed-source integrator supervisory software overlay
   * Trade Publications
       - [Time Series Analysis with Python Cookbook](https://learning.oreilly.com/library/view/time-series-analysis/9781801075541/) by Tarek A. Atwan, Packt 2022
       - [Machine Learning for Time Series Analysis](https://learning.oreilly.com/library/view/machine-learning-for/9781801819626/) by Ben Auffarth, Packt 2021
