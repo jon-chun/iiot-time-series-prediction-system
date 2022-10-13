@@ -90,11 +90,6 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
       -  ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
 - 
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
-  * AWS Cloud Resources
-    - [AWS Architecture Blog: IoT](https://aws.amazon.com/blogs/architecture/category/internet-of-things/aws-iot-platform/)
-    - [AWS IoT Solution Repository](https://aws.amazon.com/iot/solutions/?iot-solution-repository-cards.sort-by=item.additionalFields.headline&iot-solution-repository-cards.sort-order=asc&awsf.iot-solution-repository-filter-industry=*all&awsf.iot-solution-repository-filter-products=*all&awsf.iot-solution-repository-filter-usecase=*all&awsf.iot-solution-repository-filter-solution-type=*all)
-    - [AWS Real-Time IoT Device Monitoring with Kinesis Data Analysis](https://docs.aws.amazon.com/solutions/latest/real-time-iot-device-monitoring-with-kinesis/architecture.html)
-    - [Getting Started Architecting on AWS](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all)
   * Trade Publications
     - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/) and [Github Repo](https://github.com/PacktPublishing/Raspberry-Pi-and-MQTT-Essentials)
     - [Arduino 2.0 IDE](https://www.arduino.cc/en/software)
@@ -113,6 +108,13 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [Industry 4.0 IIoT Cloud: AWS vs MS Azure](https://www.youtube.com/watch?v=eyDcWPic0Do)
     - [Industrial IoT Architecture Patterns](https://docs.aws.amazon.com/whitepapers/latest/industrial-iot-architecture-patterns/industrial-iot-architecture-patterns.pdf) AWS Whitepaper 2022
     - [Designing the IoT Solutions with Azuer: Chp 5 - IoT Applications in Manufacturing](https://learning.oreilly.com/library/view/designing-internet-of/9781484260418/html/491651_1_En_5_Chapter.xhtml) by Nirnay Bansal, Apress 2020
+  * AWS Cloud Resources
+    - [AWS Architecture Blog: IoT](https://aws.amazon.com/blogs/architecture/category/internet-of-things/aws-iot-platform/)
+    - [AWS IoT Solution Repository](https://aws.amazon.com/iot/solutions/?iot-solution-repository-cards.sort-by=item.additionalFields.headline&iot-solution-repository-cards.sort-order=asc&awsf.iot-solution-repository-filter-industry=*all&awsf.iot-solution-repository-filter-products=*all&awsf.iot-solution-repository-filter-usecase=*all&awsf.iot-solution-repository-filter-solution-type=*all)
+    - [AWS Real-Time IoT Device Monitoring with Kinesis Data Analysis](https://docs.aws.amazon.com/solutions/latest/real-time-iot-device-monitoring-with-kinesis/architecture.html)
+    - [Getting Started Architecting on AWS](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all)
+  * Microsoft Azure Cloud
+    - [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub/#overview)
 ## 7. Week 13-14: Reporting/Analytics Dashboard U
   - BI Dashboard
     - [Building IoT Visualizations with Grafana](https://learning.oreilly.com/library/view/building-iot-visualizations/9781803236124/) by Rodrigo Juan Hernandez, Packt 2022
