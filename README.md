@@ -90,6 +90,11 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
       -  ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
 - 
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
+  * AWS Cloud Resources
+    - [AWS Architecture Blog: IoT](https://aws.amazon.com/blogs/architecture/category/internet-of-things/aws-iot-platform/)
+    - [AWS IoT Solution Repository](https://aws.amazon.com/iot/solutions/?iot-solution-repository-cards.sort-by=item.additionalFields.headline&iot-solution-repository-cards.sort-order=asc&awsf.iot-solution-repository-filter-industry=*all&awsf.iot-solution-repository-filter-products=*all&awsf.iot-solution-repository-filter-usecase=*all&awsf.iot-solution-repository-filter-solution-type=*all)
+    - [AWS Real-Time IoT Device Monitoring with Kinesis Data Analysis](https://docs.aws.amazon.com/solutions/latest/real-time-iot-device-monitoring-with-kinesis/architecture.html)
+    - [Getting Started Architecting on AWS](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all)
   * Trade Publications
     - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/) and [Github Repo](https://github.com/PacktPublishing/Raspberry-Pi-and-MQTT-Essentials)
     - [Arduino 2.0 IDE](https://www.arduino.cc/en/software)
