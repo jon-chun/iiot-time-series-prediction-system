@@ -90,6 +90,12 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
       -  ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
 - 
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
+  * Mock Data, Data Wrangling and ML Models
+    - [Predictive Maintenance Datasets](https://github.com/kokikwbt/predictive-maintenance)
+    - [Predictive Maintenance Models](https://github.com/Samimust/predictive-maintenance)
+    - [Predictive Maintenace Models AP CS](https://github.com/Yi-Chen-Lin2019/Predictive-maintenance-with-machine-learning)
+  * AWS Cloud
+    - [AWS Fleet Preventative Maintenance Repo](https://github.com/awslabs/aws-fleet-predictive-maintenance)
   * Trade Publications
     - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/) and [Github Repo](https://github.com/PacktPublishing/Raspberry-Pi-and-MQTT-Essentials)
     - [Arduino 2.0 IDE](https://www.arduino.cc/en/software)
@@ -114,6 +120,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [AWS Real-Time IoT Device Monitoring with Kinesis Data Analysis](https://docs.aws.amazon.com/solutions/latest/real-time-iot-device-monitoring-with-kinesis/architecture.html)
     - [Getting Started Architecting on AWS](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all)
   * Microsoft Azure Cloud
+    - [Azure Industrial IoT Overview/Repo](https://github.com/Azure/Industrial-IoT)
     - [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub/#overview)
 ## 7. Week 13-14: Reporting/Analytics Dashboard U
   - BI Dashboard
