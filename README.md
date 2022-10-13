@@ -95,6 +95,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [Predictive Maintenance Models](https://github.com/Samimust/predictive-maintenance)
     - [Predictive Maintenace Models AP CS](https://github.com/Yi-Chen-Lin2019/Predictive-maintenance-with-machine-learning)
   * AWS Cloud
+    - [Event Driven Architectures vs Workflows (with AWS Services!) (15:48)](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
     - [AWS Fleet Preventative Maintenance Repo](https://github.com/awslabs/aws-fleet-predictive-maintenance)
   * Trade Publications
     - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/) and [Github Repo](https://github.com/PacktPublishing/Raspberry-Pi-and-MQTT-Essentials)
@@ -124,6 +125,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub/#overview)
 ## 7. Week 13-14: Reporting/Analytics Dashboard U
   - BI Dashboard
+    - [AWS Step Functions](https://aws.amazon.com/step-functions/)
     - [Building IoT Visualizations with Grafana](https://learning.oreilly.com/library/view/building-iot-visualizations/9781803236124/) by Rodrigo Juan Hernandez, Packt 2022
     - [Web Application Development with Streamlit: Develop and Deploy Secure and Scalable Web Applications to the Cloud Using a Pure Python Framework](https://learning.oreilly.com/library/view/web-application-development/9781484281116/) by Mohammed Khorasani, et al, Apress 2022
     - [Learning Tableau 2022](https://learning.oreilly.com/library/view/learning-tableau-2022/9781801072328/) by Joshua N. Milligan et al, Packt 2022
