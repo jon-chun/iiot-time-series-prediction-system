@@ -74,7 +74,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [IoT and Edge Computing for Architects](https://learning.oreilly.com/library/view/iot-and-edge/9781839214806/) by Perry Lea, Packt 2020
     - [Hands-On Industrial Internet of Things](https://learning.oreilly.com/library/view/hands-on-industrial-internet/9781789537222/) by Giacomo Veneri, Antonio Capasso, Packt 2018
     - [Auditing IT Infrastructures for Compliance, 3rd ed](https://learning.oreilly.com/library/view/auditing-it-infrastructures/9781284236613/) by Robert Johnson, et al, Jones and Bartlett Learning, 2022
-    - 
+  
 ## 3. Week 5-6: Theory: Time Series Analysis & ML Predictive Models
   * Video Overviews
       - [What is predictive maintenance on electric motors - low power motors (4:17)](https://www.youtube.com/watch?v=cFlY6L1igKY)
@@ -88,14 +88,20 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
       - [Machine Learning for Time Series Analysis](https://learning.oreilly.com/library/view/machine-learning-for/9781801819626/) by Ben Auffarth, Packt 2021
       - [Time Series Analysis on AWS](https://learning.oreilly.com/library/view/time-series-analysis/9781801816847/) by Michael Hoarau, Packt 2022
       -  ML/AI Models for Time Series (Regime Change, Anomalies, Feature Detections, etc)
-- 
+  * Notebooks
+    - [Predictive ML for CS AP](https://github.com/Yi-Chen-Lin2019/Predictive-maintenance-with-machine-learning)
+    - [Predictive Maintenance: Jupyter Notebooks](https://github.com/Samimust/predictive-maintenance)
+    - [Predictive Maintenance on Open Data](https://github.com/tayciryahmed/predictive-maintenance)
+    - [Predictive Maintenance Modeling Guide in R](https://github.com/vikasgupta1812/Machine_Learning/blob/master/Predictive%20Maintenance%20Modelling%20Guide%20R%20Notebook.ipynb)
+
 ## 4. Week 7-8: End-to-End (Phase 1): Mock Backend Static Data Store
   * Mock Data, Data Wrangling and ML Models
     - [Predictive Maintenance Datasets](https://github.com/kokikwbt/predictive-maintenance)
+    - [Predictive Maintenance Data from Huawei Germany](https://github.com/omlstreaming/grc-datasets-pred-maintenance)
     - [Predictive Maintenance Models](https://github.com/Samimust/predictive-maintenance)
     - [Predictive Maintenace Models AP CS](https://github.com/Yi-Chen-Lin2019/Predictive-maintenance-with-machine-learning)
   * AWS Cloud
-    - [Event Driven Architectures vs Workflows (with AWS Services!) (15:48)](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
+    - [Event-Driven Architectures vs Workflows (with AWS Services!) (15:48)](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
     - [AWS Fleet Preventative Maintenance Repo](https://github.com/awslabs/aws-fleet-predictive-maintenance)
   * Trade Publications
     - [Raspberry Pi and MQTT Essentials](https://learning.oreilly.com/library/view/raspberry-pi-and/9781803244488/) and [Github Repo](https://github.com/PacktPublishing/Raspberry-Pi-and-MQTT-Essentials)
@@ -120,6 +126,7 @@ Architectures: A Review](https://www.mdpi.com/1424-8220/22/15/5836) by Akseer Al
     - [AWS IoT Solution Repository](https://aws.amazon.com/iot/solutions/?iot-solution-repository-cards.sort-by=item.additionalFields.headline&iot-solution-repository-cards.sort-order=asc&awsf.iot-solution-repository-filter-industry=*all&awsf.iot-solution-repository-filter-products=*all&awsf.iot-solution-repository-filter-usecase=*all&awsf.iot-solution-repository-filter-solution-type=*all)
     - [AWS Real-Time IoT Device Monitoring with Kinesis Data Analysis](https://docs.aws.amazon.com/solutions/latest/real-time-iot-device-monitoring-with-kinesis/architecture.html)
     - [Getting Started Architecting on AWS](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all)
+    - [AWS IoT Reference Architectures](https://github.com/aws-iot-builder-tools/iot-reference-architectures)
   * Microsoft Azure Cloud
     - [Azure Industrial IoT Overview/Repo](https://github.com/Azure/Industrial-IoT)
     - [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub/#overview)
